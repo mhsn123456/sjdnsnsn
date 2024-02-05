@@ -1,0 +1,10 @@
+circleci
+database
+app.json
+backend.py
+bot.py
+config.py
+db.py
+LICENSE
+Procfile
+requirements.txt
